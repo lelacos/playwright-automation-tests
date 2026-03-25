@@ -1,0 +1,15 @@
+{
+  "name": "playwright-automation-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.0"
+  }
+}

@@ -1,0 +1,7 @@
+.idea/
+.venv/
+*.iml
+node_modules/
+playwright-report/
+test-results/
+dist/
